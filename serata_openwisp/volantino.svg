@@ -158,9 +158,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.57490234"
-     inkscape:cx="300.48555"
-     inkscape:cy="491.66457"
+     inkscape:zoom="0.81303469"
+     inkscape:cx="443.75644"
+     inkscape:cy="638.56885"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -246,22 +246,22 @@
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:75px;line-height:100%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="380.93427"
+       x="372.93427"
        y="52.192341"
        id="text4946"
        sodipodi:linespacing="100%"><tspan
          sodipodi:role="line"
          id="tspan4948"
-         x="380.93427"
+         x="372.93427"
          y="52.192341"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:45px;font-family:'EB Garamond';-inkscape-font-specification:'EB Garamond'">Federico Capoano presenta:</tspan><tspan
          sodipodi:role="line"
-         x="385.41669"
+         x="377.41669"
          y="97.192337"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:45px;font-family:'EB Garamond';-inkscape-font-specification:'EB Garamond'"
-         id="tspan4952">La guida alcolica ad OpenWISP, network </tspan><tspan
+         id="tspan4952">La guida alcolica ad OpenWISP, il network </tspan><tspan
          sodipodi:role="line"
-         x="380.93427"
+         x="372.93427"
          y="142.19234"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:45px;font-family:'EB Garamond';-inkscape-font-specification:'EB Garamond'"
          id="tspan4950">management sytem open source</tspan></text>
@@ -428,5 +428,21 @@
          id="path108"
          style="fill:#f79210;fill-opacity:1;fill-rule:nonzero;stroke:none" />
     </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:75px;line-height:100%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="214.12537"
+       y="999.83441"
+       id="text5154"
+       sodipodi:linespacing="100%"><tspan
+         sodipodi:role="line"
+         id="tspan5156"
+         x="214.12537"
+         y="999.83441"
+         style="font-size:37.5px">FIRENZE<tspan
+   style="fill:#ff0000;fill-opacity:1"
+   id="tspan5158">.</tspan>NINUX<tspan
+   style="fill:#ff0000;fill-opacity:1"
+   id="tspan5166">.</tspan>ORG</tspan></text>
   </g>
 </svg>
