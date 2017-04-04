@@ -15,7 +15,10 @@
    id="svg4356"
    version="1.1"
    inkscape:version="0.91 r13725"
-   sodipodi:docname="volantino.svg">
+   sodipodi:docname="volantino.svg"
+   inkscape:export-filename="/home/leonardo/progetti/ninux/grafica/serata_openwisp/volantino.png"
+   inkscape:export-xdpi="120.64"
+   inkscape:export-ydpi="120.64">
   <defs
      id="defs4358">
     <marker
@@ -284,9 +287,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.92979398"
-     inkscape:cx="288.73083"
-     inkscape:cy="399.96783"
+     inkscape:zoom="1.3149273"
+     inkscape:cx="194.87005"
+     inkscape:cy="845.39032"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -303,7 +306,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -312,6 +315,14 @@
      inkscape:groupmode="layer"
      id="layer1"
      style="opacity:0.99">
+    <rect
+       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:2.954;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect5400"
+       width="743.75928"
+       height="1048.6655"
+       x="-0.023074223"
+       y="2.6442292"
+       ry="2.4865432" />
     <g
        id="g4916"
        transform="translate(0,-48)">
